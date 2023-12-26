@@ -1,9 +1,9 @@
 # UASPI
 ## Daftar Soal dan Jawaban UAS pengenalan informatika Semester 1 UIN Sunan Gunung Djati Bandung
-NAMA  : MUHAMMAD IRSYAD MUSTAQIM
-NIM   : 1237050050
-KELAS : INFORMATIKA B
-UIN SUNAN GUNUNG DJATI BANDUNG
+NAMA  : MUHAMMAD IRSYAD MUSTAQIM /n
+NIM   : 1237050050 /n
+KELAS : INFORMATIKA B /n
+UIN SUNAN GUNUNG DJATI BANDUNG /n
 
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
