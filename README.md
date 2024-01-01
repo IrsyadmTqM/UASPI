@@ -283,6 +283,7 @@ Referensi:
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+![Screenshot 2024-01-02 004024](https://github.com/IrsyadmTqM/UASPI/assets/144867862/17d088fa-0093-4970-b8c9-1b90191e6ed1)
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
