@@ -39,6 +39,11 @@ UIN SUNAN GUNUNG DJATI BANDUNG
     - Ketika membangun solusi digital berbasis client-server, akan banyak konfigurasi dan optimalisasi program memanfaatkan console
     - Program berbasis console jauh lebih cepat dari program berbasis GUI
 
+
+![Screenshot 2024-01-01 181019](https://github.com/IrsyadmTqM/UASPI/assets/144867862/62df5531-ba05-4566-aa6d-8c90f1b9fb2d)
+
+
+
 ### Console di Windows / Mac: Windows CMD [v] ⭐⭐⭐⭐
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
