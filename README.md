@@ -139,7 +139,9 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
+![Screenshot 2024-01-02 002957](https://github.com/IrsyadmTqM/UASPI/assets/144867862/800452d9-0f4f-4648-9483-c0e9ebf4e669)
+- https://www.nslookup.io/domains/tokopedia.com/webservers/
+- https://who.is/whois/tokopedia.com
 Referensi tool:
 - https://who.is/whois/detik.com
 - https://www.nslookup.io/domains/detik.com/webservers/
