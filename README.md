@@ -75,7 +75,12 @@ Print saya sekarang ada di posisi mana
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
-## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+
+ch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+## Mencoba Scrat![Animation](https://github.com/IrsyadmTqM/UASPI/assets/144867862/017814f8-c004-464d-872a-960562f3188c)
+
+
+
 
 Referensi [1](https://scratch.mit.edu/)
 
