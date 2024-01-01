@@ -213,10 +213,13 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+![Screenshot 2024-01-02 003252](https://github.com/IrsyadmTqM/UASPI/assets/144867862/7552ae3a-4d6c-4277-ad68-cd4067d35c5b)
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+![Screenshot 2024-01-02 003536](https://github.com/IrsyadmTqM/UASPI/assets/144867862/730df405-9662-4fc5-af90-854a0cccf0a9)
+
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 ![Alt text](https://cdn.serc.carleton.edu/images/NAGTWorkshops/complexsystems/netlogo_aquarium_macro-level_m.webp)
@@ -296,6 +299,7 @@ Referensi:
 - https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+![Screenshot 2024-01-02 003830](https://github.com/IrsyadmTqM/UASPI/assets/144867862/b28c3d96-c624-4e04-ac09-75c12f68269a)
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
