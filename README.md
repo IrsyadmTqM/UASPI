@@ -9,63 +9,64 @@ KELAS : INFORMATIKA B
 UIN SUNAN GUNUNG DJATI BANDUNG 
 
 
-## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-- bagaimana membuat solusi dalam bentuk program yang efektif dan efisien
-- langkahnya seperti apa yang bisa menyelesaikan masalah, untuk lebih efektif, untuk lebih efisien
-- ini jadi dasar semua pembangunan produk informatika
+# Hello Informatics !
 
-Computational Thinking bisa dijelaskan seperti cara berpikir seperti komputer untuk menyelesaikan masalah. Ini sangat bermanfaat dalam kehidupan sehari-hari. Kkita lihat contohnya:
-1. **Pemecahan Masalah:**
-   - **Contoh:** Bayangkan Anda punya tugas besar seperti membersihkan rumah. Alih-alih melihatnya sebagai tugas yang besar, pecahlah menjadi tugas-tugas kecil seperti menyapu lantai, membersihkan kamar mandi, dan merapikan tempat tidur. Ini membuatnya lebih mudah dan terorganisir.
-2. **Pengenalan Pola:**
-   - **Contoh:** Saat Anda belajar untuk mengemudi, Anda belajar mengenali pola di jalan seperti rambu lalu lintas, lampu merah, dan aturan jalan. Ini membantu Anda menjadi pengemudi yang lebih baik dan memahami bagaimana berperilaku di jalan.
-3. **Abstraksi:**
-   - **Contoh:** Ketika Anda merencanakan liburan, Anda tidak perlu terlalu terperinci tentang setiap langkah. Anda dapat membuat rencana yang lebih abstrak, seperti memutuskan destinasi, budget, dan aktivitas utama, tanpa harus terjebak dalam detail-detail kecil yang mungkin dapat diatasi nanti.
-4. **Pemikiran Algoritmik:**
-   - **Contoh:** Saat Anda membuat rencana untuk pergi ke tempat baru, Anda mungkin membuat "algoritma perjalanan" dengan langkah-langkah seperti mencari informasi tentang lokasi, memesan tiket transportasi, dan merencanakan aktivitas. Ini membantu menjadwalkan perjalanan dengan baik.
-Menerapkan Computational Thinking dalam kehidupan sehari-hari membantu kita menghadapi masalah dan tugas dengan lebih terorganisir dan efisien. Ini melibatkan memecah masalah, mengenali pola, menyederhanakan informasi, dan merencanakan langkah-langkah seperti algoritma. Dengan demikian, tidak hanya bermanfaat dalam dunia teknologi, tetapi juga dapat meningkatkan keterampilan pemecahan masalah secara umum.
+## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+- Bagaimana membuat solusi dalam bentuk program yang efektif dan efisien
+- Langkahnya seperti apa untuk bisa menyelesaikan masalah, untuk lebih efektif, untuk lebih efisien
+- Ini dasar dari semua pembangunan produk keinformatikaan
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-- 
-
-Mesin komputasi adalah perangkat keras yang dirancang untuk menjalankan operasi-operasi komputasi dan pemrosesan data. Berikut adalah beberapa jenis mesin komputasi yang umum digunakan:
-1. **Komputer Pribadi (Personal Computer - PC):**
-   - **Deskripsi:** Komputer pribadi adalah mesin komputasi yang dirancang untuk penggunaan individu. Ini termasuk desktop dan laptop.
-   - **Kegunaan:** Digunakan untuk pekerjaan sehari-hari, seperti pengetikan dokumen, browsing internet, dan pemrosesan data.
-2. **Server:**
-   - **Deskripsi:** Server adalah mesin komputasi yang dirancang untuk menyediakan layanan, menyimpan data, atau mengelola jaringan.
-   - **Kegunaan:** Digunakan untuk menyimpan dan mengelola data, menjalankan aplikasi berbasis jaringan, dan menyediakan layanan kepada komputer-komputer lainnya.
-3. **Superkomputer:**
-   - **Deskripsi:** Superkomputer adalah mesin komputasi yang memiliki kekuatan pemrosesan yang sangat tinggi. Mereka digunakan untuk menangani tugas-tugas yang memerlukan perhitungan intensif, seperti simulasi ilmiah dan penelitian kompleks.
-   - **Kegunaan:** Digunakan dalam riset ilmiah, pengembangan obat, simulasi cuaca, dan perhitungan kompleks lainnya.
-4. **Mainframe:**
-   - **Deskripsi:** Mainframe adalah komputer besar yang dirancang untuk menangani volume data dan transaksi bisnis yang besar. Mereka sering digunakan dalam industri keuangan dan perbankan.
-   - **Kegunaan:** Digunakan untuk pengolahan data bisnis skala besar, seperti sistem perbankan, manajemen stok, dan pemrosesan transaksi.
-5. **Mikrokontroller:**
-   - **Deskripsi:** Mikrokontroller adalah mesin komputasi kecil yang terintegrasi dalam perangkat elektronik. Mereka digunakan untuk mengontrol fungsi-fungsi spesifik dalam perangkat elektronik.
-   - **Kegunaan:** Digunakan dalam perangkat elektronik seperti microwave, mobil, dan peralatan rumah tangga pintar.
-6. **Embedded Systems:**
-   - **Deskripsi:** Sistem terbenam (embedded systems) adalah kombinasi perangkat keras dan perangkat lunak yang menyatu dalam suatu perangkat dan dirancang untuk melakukan tugas tertentu.
-   - **Kegunaan:** Ditemukan dalam banyak perangkat sehari-hari seperti kamera digital, printer, dan peralatan elektronik konsumen lainnya.
-7. **Komputer Kuantum:**
-   - **Deskripsi:** Komputer kuantum menggunakan prinsip-prinsip fisika kuantum untuk melakukan perhitungan. Mereka dapat menangani beberapa jenis masalah yang sulit dipecahkan oleh komputer klasik.
-   - **Kegunaan:** Digunakan untuk perhitungan kuantum dan riset dalam bidang-bidang seperti kecerdasan buatan dan kriptografi.
-Setiap jenis mesin komputasi memiliki kegunaan dan karakteristiknya sendiri tergantung pada kebutuhan pemakaian dan tingkat kompleksitas perhitungan yang diperlukan.
+- Karena solusi teknologi informasi itu ditaruh di mesin komputasi
+    - Mobil pintar
+    - Robot mini
+    - Drone pawai teratur
+    - Smartphone
+    - Game
+- Contoh
+    - PC
+    - Server
+    - Embedded computer
+    - Mobile phone
+    - Console
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-- memudahkan latihan coding , membangun model ai, riset di berbagai bidang 
-## Mencoba Console Sistem Operasi
-- interfase paling dasar untuk mengakses program di sistem operasi
-- banyak konfigurasi dan optimalisasi program memanfaatkan console
-- lebih cepat program basis console dari pada GUI
-### Windows CMD [v] ⭐⭐⭐⭐
+- Karena akan memudahkan latihan coding, membangun model AI, hingga riset di berbagai bidang
 
+## Mencoba Console Sistem Operasi
+- Karena console
+    - Interface paling dasar yang bisa manusia dan aplikasi pergunakan untuk mengakses program di sistem operasi
+    - Ketika membangun solusi digital berbasis client-server, akan banyak konfigurasi dan optimalisasi program memanfaatkan console
+    - Program berbasis console jauh lebih cepat dari program berbasis GUI
+
+### Console di Windows / Mac: Windows CMD [v] ⭐⭐⭐⭐
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
-### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+### Console di Linux: Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+
+Contoh di Google Colab:
+
+List di direktori ini ada file dan folder apa aja:
+```py
+!ls
+```
+
+Print saya sekarang ada di posisi mana
+```py
+!pwd
+```
+
+- [Linux Command Cheat Sheet](https://phoenixnap.com/kb/linux-commands-cheat-sheet)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+- Contoh:
+    - Flowchart daftar ulang perkuliahan
+    - Flowchart musuh di game mengejar karakter
+    - Flowchart bayar pajak STNK
+    - Flowchart membuat paspor
+    - Flowchart sortir daftar mahasiswa
+    - Flowchart login Instagram
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
@@ -74,19 +75,42 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+- Beri penjelasan
+- Beri komentar, bahasa indonesia
+- Lebih bagus buat juga flowchart nya
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+- IDE / text editor berplugin digunakan untuk membangun program menggunakan bahasa pemrograman
+- Contoh:
+    - VS Code
+    - Unity
+    - Android Studio
+    - Notepad ++
+    - Vim
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+- Sebagai developer
+- Selesaikan topics : Algorithms / Data Structure / Mathematics, boleh pake bahasa apapun
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+- Menggunakan evaluasi tengah semester
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+- Karena semua aplikasi terutama berbasis internet saat ini seperti Instagram, Youtube, Github, Tokopedia, BPJS, Internet Banking, semua, pake database
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+- Eksplorasi dan pengelolaan database, paling dasar bisa menggunakan console
+- Database explorer, seperti Navicat (berbayar) dan Dbeaver, adalah aplikasi eksplorasi dan pengelolaan database berbasis GUI, yang bisa terhubung ke berbagai jenis database
+- Task
+    1. Berhasil koneksi ke database yang sudah diinstall (PostgreSQL / MySQL)
+    2. Mencoba membuat table baru
+    3. Mencoba bahasa SQL untuk query data
+
+Referensi tutorial [PostgreSQL](https://www.youtube.com/watch?v=efEaVGYl5_I&pp=ygUaZGJlYXZlciBjb25uZWN0IHBvc3RncmVzcWw%3D)
+Referensi tutorial [MySQL](https://www.youtube.com/watch?v=3kq_xQAvJCs)
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
@@ -95,12 +119,20 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
+- Jelaskan sederhana cara kerjanya
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+- Karena URL tidak hanya dipakai untuk manusia akses ke browser
+- Penggunaan utamanya saat ini adalah integrasi data misal antara Front End dan Backend, atau antara aplikasi mobile dengan server menggunakan protokol komunikasi RESTful API
+- Jadi resource itu apa sih, di kata URL ini ?
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+
+Referensi tool:
+- https://who.is/whois/detik.com
+- https://www.nslookup.io/domains/detik.com/webservers/
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
@@ -113,18 +145,55 @@ Referensi tutorial
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
+Teknik:
+- On page - yang bisa kita lakukan di halaman HTML kita sendiri
+- Off page - yang bisa kita harapkan dilakukan pihak lain terhadap kita
+
+Studi kasus:
+- Wordpress SEO
+
+Referensi:
+- [On page SEO](https://backlinko.com/on-page-seo)
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+- Karena JSON sekarang format representasi data paling populer digunakan baik untuk pengguna manusia dan utamanya untuk integrasi data antar aplikasi. Gojek ke BNI, UIN ke Kemenag, Kementerian ke KSP, aplikasi kasir ke server utama, Instagram App ke server Instagram, backup data mahasiswa
+
+```json
+{
+    "nama_data": "List Mahasiswa 2023",
+    "isi_data": [
+        {
+            "nim": "93487534",
+            "nama": "Aden",
+            "tl": 2005,
+            "aktif": true
+        },
+        {
+            "nim": "93487535",
+            "nama": "Juli",
+            "tl": 2005,
+            "aktif": true
+        }
+    ]
+}
+```
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
+Tips:
+- Cari di Google: web hosting murah bulanan indonesia
+- Gratis ? malah dikasih credit: Google Cloud Platform / Amazon Web Service
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
-## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+## Mencoba HTTP Request dan Web API dengan HTTP Client Hoppscotch / Postman [v] ⭐⭐
+
+Contoh:
+- [Kumpulan public API untuk dicoba2](https://github.com/public-apis/public-apis)
+- [CatFact](https://catfact.ninja/fact)
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+- Karena ini tools utama untuk mendiagnosis halaman web, memanipulasi halaman web, otomasi, kondisi respon dari server, dsb.
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
@@ -138,8 +207,15 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+![Alt text](https://cdn.serc.carleton.edu/images/NAGTWorkshops/complexsystems/netlogo_aquarium_macro-level_m.webp)
+- [Starlogo](https://education.mit.edu/project/starlogo-tng/)
+- [Netlogo](https://ccl.northwestern.edu/netlogo/)
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+
+Referensi:
+- https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_notebooks/2020-07-31-01-Introducing-Image-Processing-and-scikit-image.ipynb
+- [Gambar](https://gitlab.com/marchgis/march-ed/2023/courses/if216006-praktikum-sistem-multimedia/-/tree/main/modul-2)
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
@@ -147,23 +223,45 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+Referensi:
+- https://s.id/ds-braga
+
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
+Referensi:
+- [Looker Studio](https://lookerstudio.google.com/)
+
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+Referensi:
+- [ChartJS](https://www.chartjs.org/docs/latest/getting-started/)
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+Referensi:
+- [Huggingface](https://huggingface.co/)
+- [Contoh penggunaan di Google Colab](https://colab.research.google.com/drive/1mcMiav2NBk4UcnttAuB4reSCeWuywjmj?usp=sharing)
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+- https://www.kaggle.com
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+Referensi:
+- https://colab.research.google.com/drive/1AMLJIYM4r-uirkf1mKrkmqHAAgXTTwww?usp=sharing
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+Referensi:
+- https://colab.research.google.com/drive/1pA5MgfR5JaBdVfbKSq5G05pZD60EuK6J?usp=sharing
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+- https://ieeexplore.ieee.org/Xplore/home.jsp
+- https://arxiv.org/
+- https://www.sciencedirect.com/
+- https://dl.acm.org/
+- https://dblp.org/
+- Eksplorasi juga jurnal yang disuka di https://www.scimagojr.com/
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
@@ -178,8 +276,12 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+Referensi:
+- https://roadmap.sh/
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+Referensi:
+- https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
@@ -188,6 +290,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+
+
 
 
 
