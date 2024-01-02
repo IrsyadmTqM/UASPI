@@ -102,7 +102,8 @@ Referensi [1](https://scratch.mit.edu/)
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 - Sebagai developer
 - Selesaikan topics : Algorithms / Data Structure / Mathematics, boleh pake bahasa apapun
-  ![Animation1](https://github.com/IrsyadmTqM/UASPI/assets/144867862/e6138789-078d-4bb8-9ebf-ea151085dc83)
+![Animation2](https://github.com/IrsyadmTqM/UASPI/assets/144867862/a3f9da39-ac21-48ed-ab83-a457d8998ff8)
+
 
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
