@@ -29,6 +29,29 @@ UIN SUNAN GUNUNG DJATI BANDUNG
     - Embedded computer
     - Mobile phone
     - Console
+  Mesin komputasi adalah perangkat keras atau perangkat lunak yang dirancang untuk melakukan pengolahan informasi atau tugas-tugas komputasi. Jenis-jenis mesin komputasi dapat dibagi menjadi beberapa kategori berdasarkan fungsinya dan karakteristiknya. Berikut adalah beberapa jenis mesin komputasi yang umum:
+Superkomputer:
+Deskripsi: Superkomputer adalah mesin komputasi paling kuat dan paling cepat yang dirancang untuk menangani perhitungan intensif dan besar.
+Penggunaan: Digunakan dalam penelitian ilmiah, simulasi cuaca, analisis finansial, dan aplikasi yang memerlukan kekuatan komputasi tinggi.
+Mainframe:
+Deskripsi: Mainframe adalah komputer berukuran besar yang dirancang untuk menangani beban kerja bisnis dan pengolahan transaksi dalam jumlah besar.
+Penggunaan: Digunakan dalam perbankan, industri keuangan, dan perusahaan besar untuk pengolahan data skala besar.
+Minicomputer:
+Deskripsi: Minicomputer lebih kecil dari mainframe tetapi lebih besar dari komputer mikro. Awalnya dirancang untuk memenuhi kebutuhan komputasi menengah.
+Penggunaan: Beberapa aplikasi bisnis, penelitian akademis, dan pengendalian sistem yang membutuhkan kinerja sedang.
+Komputer Mikro:
+Deskripsi: Komputer mikro atau mikrokomputer adalah jenis komputer yang ukurannya relatif kecil dan dapat ditemukan di meja atau bahkan dipangku pengguna.
+Penggunaan: Umumnya digunakan dalam kehidupan sehari-hari, bisnis kecil, dan pendidikan. Laptop, desktop, dan server kecil termasuk dalam kategori ini.
+Ponsel dan Tablet:
+Deskripsi: Ponsel dan tablet adalah bentuk khusus komputer mikro yang dirancang untuk mobilitas dan akses cepat ke informasi.
+Penggunaan: Digunakan untuk komunikasi, navigasi, hiburan, dan akses internet di mana saja.
+Embedded Systems:
+Deskripsi: Sistem tertanam adalah komputer yang disematkan dalam perangkat lain dan digunakan untuk mengendalikan fungsi khusus tanpa interaksi langsung manusia.
+Penggunaan: Ditemukan dalam perangkat rumah tangga, kendaraan, peralatan medis, dan banyak perangkat elektronik lainnya.
+Quantum Computer:
+Deskripsi: Quantum computer menggunakan prinsip-prinsip mekanika kuantum untuk melakukan perhitungan. Ini berpotensi untuk memecahkan masalah kompleks dengan lebih efisien daripada komputer klasik.
+Penggunaan: Masih dalam pengembangan, tetapi diharapkan dapat menyelesaikan masalah-masalah optimasi dan kriptografi yang sulit.
+Jenis-jenis mesin komputasi ini mencakup rentang yang luas, memenuhi kebutuhan berbagai aplikasi dan skenario penggunaan.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 - Karena akan memudahkan latihan coding, membangun model AI, hingga riset di berbagai bidang
