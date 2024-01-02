@@ -91,13 +91,16 @@ Referensi [1](https://scratch.mit.edu/)
 - Lebih bagus buat juga flowchart nya
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-- IDE / text editor berplugin digunakan untuk membangun program menggunakan bahasa pemrograman
+- IDE / text editor berplugin digunakan untuk membangun program menggunakan bahasa pemrograma
 - Contoh:
     - VS Code
     - Unity
     - Android Studio
     - Notepad ++
     - Vim
+ ![Uploading Animation3.gif…]()
+
+      
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 - Sebagai developer
