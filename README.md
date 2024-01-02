@@ -53,7 +53,8 @@ Ketika kita menggunakan pemikiran komputasional, kita memecahkan masalah dengan 
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 - Karena akan memudahkan latihan coding, membangun model AI, hingga riset di berbagai bidang
-![Uploading Animation4.gif…]()
+![Animation4](https://github.com/IrsyadmTqM/UASPI/assets/144867862/ea28d808-bd9f-47ea-8600-748f9f2ba78e)
+
 
   
 
