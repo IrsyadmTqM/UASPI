@@ -123,7 +123,7 @@ Referensi [1](https://scratch.mit.edu/)
     - Android Studio
     - Notepad ++
     - Vim
- ![Uploading Animation3.gif…]()
+![Animation3](https://github.com/IrsyadmTqM/UASPI/assets/144867862/5f2b1914-4663-4ad0-9ed1-3b906e034683)
 
       
 
