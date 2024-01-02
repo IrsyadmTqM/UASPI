@@ -8,6 +8,9 @@ KELAS : INFORMATIKA B
 
 UIN SUNAN GUNUNG DJATI BANDUNG 
 
+MOHON BACA PESAN INI DULU VVV
+"Kepada Pa insan yang terhormat, saya minta izin untuk mengikuti kelas tambahan yang diadakan oleh bapak. saya memiliki kesulitan untuk mengerjakan semua persoalan informatika, entah faktor minat, faktor fasilitas, dan lainnya yang menyebabkan saya tidak bisa menyelesaikan semua persoalan informatika dengan baik. walaupun begitu saya ingin terus mencoba untuk belajar dan ingin terus memperbaiki diri untuk kedepannya. jadi mohon bimbing saya supaya saya bisa terus berjuang dan tidak berhenti sampai sini. terima kasih"
+
 
 # Hello Informatics !
 
