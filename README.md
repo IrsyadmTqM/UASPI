@@ -12,9 +12,17 @@ UIN SUNAN GUNUNG DJATI BANDUNG
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-- Bagaimana membuat solusi dalam bentuk program yang efektif dan efisien
-- Langkahnya seperti apa untuk bisa menyelesaikan masalah, untuk lebih efektif, untuk lebih efisien
-- Ini dasar dari semua pembangunan produk keinformatikaan
+Ketika kita menggunakan pemikiran komputasional, kita memecahkan masalah dengan cara yang mirip dengan cara komputer bekerja.
+- Membongkar Masalah:
+        Bayangkan kita punya sebuah misteri di mana mainan kita hilang. Pertama-tama, kita harus memahami dengan baik masalahnya. Seperti, mainan apa yang hilang, di mana terakhir kali kita melihatnya, dan apa yang bisa kita lakukan            untuk menemukannya.
+- Pemecahan Langkah Demi Langkah:
+        Setelah tahu masalahnya, kita pecah jadi langkah-langkah kecil. Misalnya, pertama-tama kita bisa mencari di ruang tamu, lalu di kamar, dan seterusnya. Kita tidak melompat-lompat begitu saja, tapi satu langkah demi satu langkah.
+- Gunakan Aturan dan Pola:
+        Kita juga bisa mengenali pola atau aturan tertentu. Jika setiap kali kita bermain, kita selalu menyimpan mainan di satu tempat, maka kita tahu itu adalah aturan. Jadi, kita bisa mencari di tempat-tempat yang biasanya kita               letakkan mainan.
+- Uji Coba dan Perbaikan:
+        Jika salah, tidak masalah! Kita bisa mencoba lagi dan mengubah cara kita mencari. Mungkin kita lupa memeriksa di bawah meja, jadi kita bisa mencoba lagi dan meyakinkan diri bahwa kita sudah mencari di setiap tempat.
+- Berpikir Logis:
+        Kita juga berpikir logis. Misalnya, jika mainan biasanya ada di ruang tamu, kita mungkin tidak perlu mencari di dapur. Ini seperti mengikuti petunjuk yang masuk akal.
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 - Superkomputer:
