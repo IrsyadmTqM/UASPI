@@ -45,6 +45,7 @@ UIN SUNAN GUNUNG DJATI BANDUNG
 
 
 ### Console di Windows / Mac: Windows CMD [v] ⭐⭐⭐⭐
+![Screenshot 2024-01-02 070713](https://github.com/IrsyadmTqM/UASPI/assets/144867862/303ca138-105f-4e12-a5a6-48367456a6d6)
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
